@@ -1,0 +1,23 @@
+title: Dependable Operating Systems at MPI-SP
+description: >-
+  Homepage of the Dependable Operating Systems Group at the Max Planck
+  Institute for Security and Privacy.
+
+url: "http://localhost"       
+baseurl: ""
+
+# Content of the navbar
+header:
+- title: People
+  url: /people.html
+- title: Publications
+  url: /publications.html
+- title: Open Positions
+  url: /positions.html
+- title: Contact
+  url: /contact.html
+
+# Build settings
+exclude:
+  - LICENSE
+  - README.md

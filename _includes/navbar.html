@@ -1,0 +1,27 @@
+<header class="container">
+<nav>
+    <div class="navbar-left">
+        <span class="navbar-item">
+            {% if page.url == "/" %}
+	        <span>Home</span>
+            {% else %}
+	        <a href="/index" class="navbar-main">Home</a>
+            {% endif %}
+        </span>
+    </div>
+
+    <!-- Navbar links stacked right-->
+    <div class="navbar-right">
+        {% for link in site.header %}
+            <span class="navbar-item">
+                {% if link.url == page.url %}
+                    <span>{{ link.title }}</span>
+                {% else %}
+                    <a href="{{ link.url }}">{{ link.title }}</a>
+                {% endif %}
+            </span>
+        {% endfor %}
+    </div>
+</nav>
+<hr>
+</header>

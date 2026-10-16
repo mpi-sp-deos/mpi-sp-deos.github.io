@@ -1,0 +1,8 @@
+# News on the index page
+# - Date in YYYY/MM format.
+# - Entry can contain links in HTML (`<a href='your link'>your text</a>`).
+# - The front page will not display more than 5 news entries, so old news entries will naturally disappear.
+- date: 2026/10
+  entry: "We are <a href='/positions'>hiring PhD students and interns</a>!"
+- date: 2026/09
+  entry: "Our paper on <i>\"Characterizing and Detecting Bugs at the Interfaces of OpenBSD Privilege-Separated Programs\"</i> will appear at CCS 2026! Kudos <a href=\"/people\">Shibo and Shawn</a>!"

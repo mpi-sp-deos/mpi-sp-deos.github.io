@@ -1,0 +1,100 @@
+# Publications of the group
+# - You can add a paper in the relevant year. Just follow the existing formatting.
+# - Do not forget to highlight members of the group in `authors` with `**`.
+# - Add the PDF to `assets/pdfs/`.
+# - If you do not yet have the link to the paper (ACM, IEEE), just omit the field altogether
+- year: 2026
+  publications:
+
+  - title: "Characterizing and Detecting Bugs at the Interfaces of OpenBSD Privilege-Separated Programs"
+    authors: "*S. Ai*, *S. C. Zhang*, *H. Lefeuvre*, M. Seltzer"
+    venue: CCS'26
+    venue-link: https://www.sigsac.org/ccs/CCS2026/
+    pdf: openbsd-civs-ccs26.pdf
+
+  - title: "Wayfinder: Automated Operating System Specialization"
+    authors: "A. Jung, C. Crăciunoiu, N. Karaolidis, *H. Lefeuvre*, D. Oñoro Rubio, F. Huici, C. Rotsos, P. Olivier"
+    venue: EuroSys'26
+    venue-link: https://2026.eurosys.org/
+    paper-link: https://dl.acm.org/doi/10.1145/3767295.3803589
+    pdf: wayfinder-eurosys26.pdf
+
+- year: 2025
+  publications:
+
+  - title: "SoK: Software Compartmentalization"
+    authors: "*H. Lefeuvre*, N. Dautenhahn, D. Chisnall, P. Olivier"
+    venue: S&P'25
+    venue-link: https://www.sp2025.ieee-security.org/index.html
+    paper-link: https://doi.ieeecomputersociety.org/10.1109/SP61157.2025.00075
+    pdf: compartmentalization-sok-sp25.pdf
+
+  - title: "CHERIoT RTOS: An OS for Fine-Grained Memory-Safe Compartments on Low-Cost Embedded Devices"
+    authors: "S. Amar, T. Chen, D. Chisnall, N. W. Filardo, B. Laurie, *H. Lefeuvre*, K. Liu, S. W. Moore, R. Norton-Wright, M. Seltzer, Y. Tao, R. N. M. Watson, H. Xia"
+    venue: SOSP'25
+    venue-link: https://sigops.org/s/conferences/sosp/2025/index.html
+    paper-link: https://dl.acm.org/doi/10.1145/3731569.3764844
+    pdf: cheriot-sosp25.pdf
+
+  - title: "μFork: Supporting POSIX fork Within a Single-Address-Space OS"
+    authors: "*A. Kressel*, *H. Lefeuvre*, P. Olivier"
+    venue: SOSP'25
+    venue-link: https://sigops.org/s/conferences/sosp/2025/index.html
+    paper-link: https://dl.acm.org/doi/10.1145/3731569.3764809
+    pdf: ufork-sosp25.pdf
+
+- year: 2024
+  publications:
+
+  - title: "Loupe: Driving the Development of OS Compatibility Layers"
+    authors: "*H. Lefeuvre*, G. Gain, V-A. Bădoiu, D. Dinca, V-R. Schiller, C. Raiciu, F. Huici, P. Olivier"
+    venue: ASPLOS'24
+    venue-link: https://www.asplos-conference.org/asplos2024/
+    paper-link: https://dl.acm.org/doi/10.1145/3617232.3624861
+    pdf: loupe-asplos24.pdf
+
+- year: 2023
+  publications:
+
+  - title: "Assessing the Impact of Interface Vulnerabilities in Compartmentalized Software"
+    authors: "*H. Lefeuvre*, V-A. Bădoiu, Y. Chien, F. Huici, N. Dautenhahn, P. Olivier"
+    venue: NDSS'23
+    venue-link: https://www.ndss-symposium.org/ndss2023/
+    paper-link: https://www.ndss-symposium.org/ndss-paper/assessing-the-impact-of-interface-vulnerabilities-in-compartmentalized-software/
+    pdf: civs-ndss23.pdf
+
+  - title: "Towards (Really) Safe and Fast Confidential I/O"
+    authors: "*H. Lefeuvre*, D. Chisnall, M. Kogias, P. Olivier"
+    venue: HotOS'23
+    venue-link: https://sigops.org/s/conferences/hotos/2023/
+    paper-link: https://dl.acm.org/doi/10.1145/3593856.3595913
+    pdf: cio-hotos23.pdf
+
+- year: 2022
+  publications:
+
+  - title: "FlexOS: Towards Flexible OS Isolation"
+    authors: "*H. Lefeuvre*, V-A. Bădoiu, A. Jung, S. Teodorescu, S. Rauch, F. Huici, C. Raiciu, P. Olivier"
+    venue: ASPLOS'22
+    venue-link: https://asplos-conference.org/asplos2022/index.html
+    paper-link: https://dl.acm.org/doi/10.1145/3503222.3507759
+    pdf: flexos-asplos22.pdf
+    award: Distinguished Artifact Award
+
+- year: 2021
+  publications:
+
+  - title: "Unikraft: Fast, Specialized Unikernels the Easy Way"
+    authors: "S. Kuenzer, V-A. Bădoiu, *H. Lefeuvre*, S. Santhanam, A. Jung, G. Gain, C. Soldani, C. Lupu, S. Teodorescu, C. Răducanu, C. Banu, L. Mathy, R. Deaconescu, C. Raiciu, F. Huici"
+    venue: EuroSys'21
+    venue-link: https://2021.eurosys.org/index.html
+    paper-link: https://dl.acm.org/doi/10.1145/3447786.3456248
+    pdf: unikraft-eurosys21.pdf
+    award: Best Paper Award
+
+  - title: "FlexOS: Making OS Isolation Flexible"
+    authors: "*H. Lefeuvre*, V-A. Bădoiu, S. Teodorescu, P. Olivier, T. Mosnoi, R. Deaconescu, F. Huici, C. Raiciu"
+    venue: HotOS'21
+    venue-link: https://sigops.org/s/conferences/hotos/2021/
+    paper-link: https://dl.acm.org/doi/abs/10.1145/3458336.3465292
+    pdf: flexos-hotos21.pdf

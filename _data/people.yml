@@ -1,0 +1,39 @@
+# People of the group
+#
+# Notes regarding pictures:
+# - All pictures in square format!
+# - You can add your picture to `assets/img/people/`.
+# - Provide the file name of your picture with `picture`. DO NOT include the
+#   extension, e.g., `hugo-lefeuvre.jpg` -> `hugo-lefeuvre`.
+current:
+- name: Hugo Lefeuvre
+  othername: 于淉
+  role: Tenure-Track Faculty Member
+  affiliation: MPI-SP
+  picture: hugo-lefeuvre
+  link: https://owl.eu.com
+- name: Kuter Bora
+  role: Incoming Ph.D. Student
+  affiliation: MPI-SP
+  picture: kuter-bora
+
+affiliate:
+- name: Alistair Kressel
+  role: Ph.D. Student
+  affiliation: The University of Manchester
+  picture: alistair-kressel
+  link: https://jkressel.github.io/
+
+alumni:
+- name: Shibo Ai
+  othername: 艾诗博
+  role: Undergraduate Researcher
+  affiliation: UBC
+  new-role: Ph.D. Student
+  new-affiliation: EPFL
+  picture: shibo-ai
+  link: https://shibo.ca
+- name: Shawn Zhang
+  role: Undergraduate Researcher
+  affiliation: UBC
+  picture: shawn-zhang
