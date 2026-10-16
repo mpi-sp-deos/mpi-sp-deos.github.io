@@ -20,11 +20,6 @@ a {
    color: #29485d;
 }
 
-p {
-    text-align: justify;
-    text-justify: inter-word;
-}
-
 li > * {
     /* Bullet point content gets very ugly on small screen sizes if we justify */
     text-align: left;
