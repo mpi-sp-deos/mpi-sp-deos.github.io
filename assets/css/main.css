@@ -25,6 +25,17 @@ li > * {
     text-align: left;
 }
 
+/* Hack to avoid the e of DeOS make the line height ugly on small screens. */
+sup {
+    line-height: 0;
+
+    /* The following rules (or similar) likely come from browser
+     * style and are not needed
+     */
+    font-size: 0.83em;
+    vertical-align: super;
+}
+
 /* Main wrapper, centered */
 
 .container {
