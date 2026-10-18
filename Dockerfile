@@ -1,6 +1,6 @@
 FROM debian:trixie
 
-RUN apt -y update && apt -y install jekyll didder imagemagick
+RUN apt -y update && apt -y install jekyll
 
 EXPOSE 4000
 

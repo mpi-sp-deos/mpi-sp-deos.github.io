@@ -1,6 +1,6 @@
 # General: Updating the website
 
-- You can start a test instance of the website with `./serve`. This will take care of generating images and all relevant data. The website will be visible locally at `localhost:4000`.
+- You can start a test instance of the website with `./serve`. The website will be visible locally at `localhost:4000`.
 
 - Once you have checked that the changes are alright, you can push to GitHub. The changes will be automatically built and published by GitHub pages.
 

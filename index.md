@@ -32,7 +32,7 @@ Check out our work on [Unikraft](https://unikraft.org) and [CHERIoT](https://che
 {% for person in site.data.people.current %}
 <div class="person">
 {% if person.picture %}
-    <img src="/assets/img/people/dithered/{{ person.picture }}.png" class="person-picture" alt="Picture of {{ person.name }}"/>
+    <img src="/assets/img/people/{{ person.picture }}" class="person-picture" alt="Picture of {{ person.name }}"/>
 {% else %}
     <div class="person-picture person-no-picture-available">
     <span>?</span>
@@ -59,7 +59,7 @@ Check out our work on [Unikraft](https://unikraft.org) and [CHERIoT](https://che
 {% for person in site.data.people.affiliate %}
 <div class="person">
 {% if person.picture %}
-    <img src="/assets/img/people/dithered/{{ person.picture }}.png" class="person-picture" alt="Picture of {{ person.name }}"/>
+    <img src="/assets/img/people/{{ person.picture }}" class="person-picture" alt="Picture of {{ person.name }}"/>
 {% else %}
     <div class="person-picture person-no-picture-available">
     <span>?</span>
