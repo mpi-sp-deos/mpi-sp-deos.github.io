@@ -1,13 +1,13 @@
 ---
 layout: default
-title: 'The Dependable Operating Systems Group at MPI-SP'
+title: 'Dependable Operating Systems at MPI-SP'
 ---
 
-<span style="font-size: 145%">We are the *Dependable Operating Systems* (D<sup><i>e</i></sup>OS) Research Group at the [Max Planck Institute for Security and Privacy](https://www.mpi-sp.org/).</span>
+<span style="font-size: 145%">We are the *Dependable Operating Systems* (D<sup><i>e</i></sup>OS) Group at the [Max Planck Institute for Security and Privacy](https://www.mpi-sp.org/).</span>
 
-We research ways to make computer systems more dependable, i.e., *safer, more secure, and more efficient*, leveraging techniques at the intersection of **systems** and **computer security**.
+We research ways to make computer systems more dependable, i.e., *safer, more secure, and more efficient*, leveraging techniques at the intersection of systems and computer security.
 For example, we design new ways to isolate software components to make systems more resilient against attacks and bugs, and to specialize the implementation of systems software to make them more secure and scalable.
-We strive to solve problems in a **systematic** and **practical** way.
+We strive to solve problems in a systematic and practical way.
 Check out our work on [Unikraft](https://unikraft.org) and [CHERIoT](https://cheriot.org), which are used in the real-world!
 
 ## News
