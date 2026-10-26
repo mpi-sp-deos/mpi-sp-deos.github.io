@@ -5,7 +5,9 @@ title: 'Contact Information'
 
 ## E-Mail
 
-You can reach out to individual group members via their webpage (links [here](/people)).
+You can reach out to `hugo.lefeuvre [at] mpi-sp.org`.
+
+Contact individual group members via their webpage (links [here](/people)).
 
 ## Address
 
