@@ -15,6 +15,12 @@ current:
   affiliation: MPI-SP
   picture: kuter-bora.webp
   link: https://kuterbora.github.io/
+- name: Ning Ding
+  othername: 丁宁
+  role: Research Assistant
+  affiliation: University of British Columbia
+  picture: ning-ding.jpg
+  link: https://nding0405.org/
 
 affiliate:
 - name: Alistair Kressel
@@ -36,3 +42,4 @@ alumni:
   role: Undergraduate Researcher
   affiliation: UBC
   picture: shawn-zhang.webp
+  link: https://shao-chen-zhang.github.io/
