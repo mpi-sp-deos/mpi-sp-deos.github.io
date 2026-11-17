@@ -26,6 +26,7 @@ The Dependable Operating Systems (D<sup><i>e</i></sup>OS) group at the Max-Planc
 {% if person.othername %}
 {{ person.othername }}
 {% endif %}
+{% if person.incoming %} (incoming){% endif %}
 <br/><i>{{ person.role }}</i> ({{ person.affiliation }})</span>
 </div>
 </div>

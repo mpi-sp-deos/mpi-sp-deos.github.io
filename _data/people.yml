@@ -11,10 +11,11 @@ current:
   picture: hugo-lefeuvre.jpg
   link: https://owl.eu.com
 - name: Kuter Bora
-  role: Incoming Ph.D. Student
+  role: Ph.D. Student
   affiliation: MPI-SP
   picture: kuter-bora.webp
   link: https://kuterbora.github.io/
+  incoming: true
 - name: Ning Ding
   othername: 丁宁
   role: Research Assistant
@@ -43,3 +44,10 @@ alumni:
   affiliation: UBC
   picture: shawn-zhang.webp
   link: https://shao-chen-zhang.github.io/
+- name: Milo Piccini Noble
+  role: Undergraduate Researcher
+  affiliation: UBC
+  new-role: Software Engineer
+  new-affiliation: Apple
+  picture: milo-piccini-noble.jpeg
+  link: https://www.linkedin.com/in/milo-p-77754a332

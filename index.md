@@ -48,13 +48,14 @@ Check out our work on [Unikraft](https://unikraft.org) and [CHERIoT](https://che
 {% if person.othername %}
 {{ person.othername }}
 {% endif %}
+{% if person.incoming %} (incoming){% endif %}
 <br/><i>{{ person.role }}</i> ({{ person.affiliation }})</span>
 </div>
 </div>
 {% endfor %}
 
 {% if site.data.people.affiliate %}
-#### Affiliates:
+#### Affiliate Members:
 
 {% for person in site.data.people.affiliate %}
 <div class="person">
