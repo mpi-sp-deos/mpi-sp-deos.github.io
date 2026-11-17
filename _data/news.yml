@@ -2,6 +2,8 @@
 # - Date in YYYY/MM format.
 # - Entry can contain links in HTML (`<a href='your link'>your text</a>`).
 # - The front page will not display more than 5 news entries, so old news entries will naturally disappear.
+- date: 2026/11
+  entry: "Shibo and Shawn received a Distinguished Paper Award at CCS'26. Congrats!"
 - date: 2026/10
   entry: "We are <a href='/positions'>hiring PhD students and interns</a>!"
 - date: 2026/09

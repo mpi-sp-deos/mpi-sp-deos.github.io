@@ -12,6 +12,7 @@
     venue-link: https://www.sigsac.org/ccs/CCS2026/
     paper-link: https://dl.acm.org/doi/10.1145/3830454.3846768
     pdf: openbsd-civs-ccs26.pdf
+    award: Distinguished Paper Award
 
   - title: "Wayfinder: Automated Operating System Specialization"
     authors: "A. Jung, C. Crăciunoiu, N. Karaolidis, *H. Lefeuvre*, D. Oñoro Rubio, F. Huici, C. Rotsos, P. Olivier"
