@@ -14,6 +14,6 @@
 
 - Add yourself to `_data/people.yml`.
 
-- Add your picture to `assets/img/people/`.
+- Add your picture to `assets/img/people/`. Make sure the picture is in square format and no more than 50KB (tip: use `convert` to format into webp, reduce the size to 500x500, and reduce the quality).
 
 - Test the changes and push (see "updating the website" above).
